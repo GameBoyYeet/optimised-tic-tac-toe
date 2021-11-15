@@ -1,7 +1,7 @@
 import java.util.*;
 class Main {
   public static void main(String[] args) {
-    System.out.println("Let's play Tic-Tac-Toe!");
+    System.out.println("Let's play Tic-Tac-Toe! You know the rules. Press any key to start.");
     String[] numbers = {"1", "2", "3", "4", "5", "6", "7", "8", "9"};
     String[] firstPosition = {numbers[0], "X", "O"};
     String[] secondPosition = {numbers[1], "X", "O"};
